@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gustavo Ribeiro Macedo
+# Gustavo Ribeiro Macedo
 
 **Analista de Cibersegurança | DevSecOps | AppSec | SOC | Infraestrutura**
 
@@ -6,7 +6,7 @@ Com mais de 10 anos de experiência em TI, atuo na sustentação de ambientes cr
 
 ---
 
-### 🛡️ Principais Áreas de Atuação & Hard Skills
+### Principais Áreas de Atuação & Hard Skills
 
 * **Cybersecurity & SOC:** Análise de vulnerabilidades, SIEM, gestão de incidentes, controle de acessos (IAM/MFA/Zero Trust) e monitoramento de eventos.
 * **AppSec & DevSecOps:** OWASP Top 10, API Security, CI/CD com GitHub Actions, SAST/DAST (Semgrep, CodeQL, Trivy).
@@ -14,7 +14,7 @@ Com mais de 10 anos de experiência em TI, atuo na sustentação de ambientes cr
 
 ---
 
-### 🚀 Projeto em Destaque
+### Projeto em Destaque
 
 **[CertPremium](https://github.com/gustavounreal/certpremium)** — Projeto autoral voltado para a demonstração prática de Application Security e DevSecOps:
 * **CI/CD Security:** Análise estática (SAST) e escaneamento de vulnerabilidades em containers ativados a cada Pull Request.
@@ -23,7 +23,7 @@ Com mais de 10 anos de experiência em TI, atuo na sustentação de ambientes cr
 
 ---
 
-### 📬 Conecte-se comigo
+### Contato & Redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-r-macedo-225a636a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.ribeiro.macedo@gmail.com)
