@@ -14,9 +14,7 @@ Com mais de 10 anos de experiência em TI, atuo na sustentação de ambientes cr
 
 ---
 
-### Projeto em Destaque
-
-### Projetos em Destaque
+### Projetos em Destaque 
 
 * **[CertPremium](https://github.com/gustavounreal/certpremium)** — Projeto autoral voltado para a demonstração prática de Application Security e DevSecOps:
   * **CI/CD Security:** Análise estática (SAST) e escaneamento de vulnerabilidades em containers ativados a cada Pull Request.
