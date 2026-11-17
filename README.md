@@ -25,7 +25,14 @@ Com mais de 10 anos de experiência em TI, atuo na sustentação de ambientes cr
   * **Modelagem de OUs:** Estrutura corporativa segmentada por nível de suporte (separação de OUs VIP e operacionais).
   * **Menor Privilégio:** Implementação e validação de delegações granulares para grupos N1/N2 com testes de negação.
   * **GPO & Auditoria:** Aplicação de diretrizes de grupo e mapeamento de eventos de segurança (Event IDs 4724, 4740, 4720).
+ 
+* **[soc-home-lab-wazuh](https://github.com/gustavounreal/soc-home-lab-wazuh)** *(Em desenvolvimento)* — Laboratório prático de SOC (Security Operations Center) e Blue Team:
+  - *Infraestrutura & Arquitetura (Concluído):* Deploy do Wazuh Server/Dashboard, topologia de rede e integração de agentes em endpoints Windows e Linux.
+  - *Threat Detection & Investigação (Em andamento):* Emulação controlada via Kali Linux (Brute Force, Elevação de Privilégios) e estruturação de relatórios de incidentes.
 
+* **[JockeyPOW](https://github.com/gustavounreal/JockeyPOW)** — Aplicativo mobile Android de Pedra, Papel e Tesoura desenvolvido em Java:
+  - *Arquitetura:* Separação limpa entre lógica de domínio, regras de negócio e interface Android (`MainActivity`).
+  - *Qualidade:* Implementação de testes unitários com JUnit e estruturação focada em manutenibilidade e boas práticas.
 ---
 
 ### Contato & Redes
