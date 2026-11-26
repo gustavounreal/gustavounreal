@@ -59,5 +59,5 @@ Com mais de 10 anos de experiência em TI, atuo na sustentação de ambientes cr
 
 ### Contato & Redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-r-macedo-225a636a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-r-macedo/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.ribeiro.macedo@gmail.com)
