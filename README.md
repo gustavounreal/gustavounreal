@@ -1,6 +1,8 @@
 # Gustavo Ribeiro Macedo
 
 **Analista de Cibersegurança | DevSecOps | AppSec | SOC | Infraestrutura**
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F14?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-r-macedo/)
 [![Email](https://img.shields.io/badge/Email-0F1113?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavo.ribeiro.macedo@gmail.com)
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0F1113?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -9,6 +11,8 @@
 ![Linux](https://img.shields.io/badge/Linux-0F1113?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0F1113?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F1113?style=flat-square&logo=githubactions&logoColor=white)
+
+
 Com mais de 10 anos de experiência em TI, atuo na sustentação de ambientes críticos, operações de NOC 24x7, infraestrutura de redes/servidores e segurança de aplicações. Atualmente focado na implementação de controles de segurança em pipelines de CI/CD, monitoramento de eventos de segurança (SOC/SIEM) e mitigação do OWASP Top 10.
 
 ---
